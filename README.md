@@ -1,3 +1,3 @@
-# sparta_automation
+# Sparta Automation
 
 ## My automation test's
