@@ -4,8 +4,8 @@
 This an automation project which comprise of user acceptance testing on amazon.co.uk and tumblr.com
 
 ### Installation
-1. Clone down the repository with $git clone http://github.com/edarko/sparta_automation.git
-2. bundle install
+1. Clone down the repository with the command: $git clone http://github.com/edarko/sparta_automation.git
+2. Run: $bundle install
 
 ### Instructions
 ##### To run acceptance tests on both websites using the Selenium Webdriver:
