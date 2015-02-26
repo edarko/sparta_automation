@@ -8,11 +8,11 @@ This an automation project which comprise of user acceptance testing on amazon.c
 2. bundle install
 
 ### Instructions
-#### To run acceptance tests on both websites using the Selenium Webdriver:
+##### To run acceptance tests on both websites using the Selenium Webdriver:
 - $rake test_one
 
-#### To run acceptance tests on both websites using the Watir Browser API:
+##### To run acceptance tests on both websites using the Watir Browser API:
 - $rake test_two
 
-#### To run acceptance tests using the Capybara API:
-- rake test_three
+##### To run acceptance tests using the Capybara API:
+- $rake test_three
