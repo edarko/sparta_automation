@@ -1,6 +1,7 @@
+# Gemfile
 source "https://rubygems.org"
 
-gem 'Rake'
-gem 'Selenium'
-gem 'Watir'
-gem 'Capybara'
+gem "rake"
+gem "selenium"
+gem "watir"
+gem "capybara"
