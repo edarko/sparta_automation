@@ -30,7 +30,7 @@ browser.a(class: "tab_anchor").click
     sleep 0.1
     bar.increment!
   end
+puts "Post to blog has been successful!" if browser.text.include? "edarko555"
+browser.quit
 end
-check = browser.a href: "http://edarko555.tumblr.com"
 
-puts "Post to blog has been successful!" if check.text == "edarko555"
